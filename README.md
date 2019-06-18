@@ -1,2 +1,2 @@
-# dws2
+# dws-gql
 Faculty project
